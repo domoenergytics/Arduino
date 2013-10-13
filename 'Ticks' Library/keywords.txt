@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map For Wire
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+operate	KEYWORD2
+currentTicks	KEYWORD2
+instantTickRate	KEYWORD2
+TickRate1Period	KEYWORD2
+TickRate5Period	KEYWORD2
+TickRate25Period	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+Ticks	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
