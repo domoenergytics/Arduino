@@ -1,7 +1,7 @@
 Arduino
 ========
 Some little stuff for Arduino:
- * ['Ticks' Library](https://github.com/domoenergytics/Arduino/tree/master/%27Ticks%27%20Library) 
+ * [The 'Ticks' Library](https://github.com/domoenergytics/Arduino/tree/master/%27Ticks%27%20Library) 
 
 Site : http://domoenergytics.com/domo.energy/-Arduino-
 
