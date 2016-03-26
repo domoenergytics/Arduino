@@ -1,4 +1,4 @@
-Water Tank Level
+Water Tank Level with Display
 =======
 Sketch Arduino to monitor, record and display the water level in a tank. Automatic measurement every 12 hours. Sending data to a datalogging server.
 
