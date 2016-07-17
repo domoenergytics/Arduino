@@ -4,7 +4,8 @@ Some little stuff for Arduino:
 
  * Thermal Power  
  * 'Ticks' Library  
- * Water Tank Level  
+ * Water Tank Level
+ * i2c screen slave Arduino
  
 --------
 ## Thermal Power  
@@ -23,3 +24,7 @@ Sketch Arduino to monitor and record the thermal power supplied by solar panels 
 --------
 ## Water Tank Level  
 To monitor and record the water level in a tank. Automatic measurement every 12 hours. Sending data to a datalogging server.
+
+--------
+## i2c screen slave Arduino
+How to use a slave Arduino on an i2c bus to drive a screen on the same bus.  
